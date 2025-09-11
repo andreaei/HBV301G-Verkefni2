@@ -14,8 +14,8 @@ Fyrir hvern notendahóp skal skrá:
 2. **[Verktaki (contractor)]** – Þriðji aðili sem sinnir einhver konar verktakastarfi og kemur því utan fyrirtækis en fær tímabundinn/takmarkaðan aðgang (td. rafvirki eða annar sérstaklega ráðinn starfsmaður sem tilheyrir ekki fyrirtækinu).
 
 ## Innan stofnunar viðskiptavinar (ekki viðskiptavinir)
-1. **[Innan stofnunar #1]** – hlutverk og áhrif á verkefnið.
-2. **[Innan stofnunar  #2]** – hlutverk og áhrif á verkefnið.
+1. **[Öryggisstjóri (security manager)]** – Starfsmaður eða hópur sem sér um öryggismál byggingarinnar. Tryggir að öryggiskröfum sé fylgt og passar að virkni kerfisins sé í samræmi við þarfir og reglugerðir fyrirtækisins. 
+2. **[Mannauðsdeild]** – Rýnir notendakröfur og gætir að hagsmunum starfsfólks og fyrirtækis, til dæmis með því að passa að on- og off-boarding ferðli starfsmanna sé eins auðvelt og hægt er.
 
 
 ## Viðskiptavinir (ekki notendur)
