@@ -10,8 +10,8 @@ Fyrir hvern notendahóp skal skrá:
 -->
 
 ## Utan stofnunar viðskiptavinar (ekki viðskiptavinir)
-1. **[Utan stofnunar #1]** – hlutverk og væntingar.
-2. **[Utan stofnunar #2]** – hlutverk og væntingar.
+1. **[Beinn notandi (direct user)]** – hlutverk og væntingar.
+2. **[Verktaki (contractor)]** – hlutverk og væntingar.
 
 ## Innan stofnunar viðskiptavinar (ekki viðskiptavinir)
 1. **[Innan stofnunar #1]** – hlutverk og áhrif á verkefnið.
