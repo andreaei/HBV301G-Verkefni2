@@ -14,13 +14,13 @@ Fyrir hvern notendahóp skal skrá:
 2. **[Eldvarnaöryggisráðjafi/úttektaraðili]** – Framkvæmir úttekt á vöru og passar að hún uppfyli kröfur um eldvarnaröryggi á því svæði sem fyrirtækið er staðsett. Gerir væntingar um að kerfið geri ráðstafanir fyrir eldhættu.
 
 ## Innan stofnunar viðskiptavinar (ekki viðskiptavinir)
-1. **[Öryggisstjóri (security manager)]** – Starfsmaður eða hópur sem sér um öryggismál byggingarinnar. Tryggir að öryggiskröfum sé fylgt og passar að virkni kerfisins sé í samræmi við þarfir og reglugerðir fyrirtækisins. 
+1. **[Framkvæmdarstjórn)]** – Sér um skipulag á innleiðslu kerfisins. Aðlagar kröfur svo auðvelt sé að innleiða kerfið. Hagræða forgangsröðun á verkum.
 2. **[Mannauðsdeild]** – Rýnir notendakröfur og gætir að hagsmunum starfsfólks og fyrirtækis, til dæmis með því að passa að on- og off-boarding ferðli starfsmanna sé eins auðvelt og hægt er.
 
 
 ## Viðskiptavinir (ekki notendur)
-1. **[Viðskiptavinategund #1]** – hlutverk og áhrif.
-2. **[Viðskiptavinategund #2]** – hlutverk og áhrif.
+1. **[Fjármálastjóri]** – Passar upp á fjárhaslega hagsmuni fyrirtækisins og þarf að gefa samþykki fyrir kaupum á vörunni og hvers konar tenginar sem kunna að bætast við. 
+2. **[Öryggisstjóri (security manager)]** – Sér um öryggismál byggingarinnar. Tryggir að öryggiskröfum sé fylgt og passar að virkni kerfisins sé í samræmi við þarfir og reglugerðir fyrirtækisins.
 
 ## Notendahópar
 
