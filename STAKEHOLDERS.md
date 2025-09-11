@@ -10,12 +10,8 @@ Fyrir hvern notendahóp skal skrá:
 -->
 
 ## Utan stofnunar viðskiptavinar (ekki viðskiptavinir)
-1. **[Beinn notandi (direct user)]** – hlutverk og væntingar.
-2. **[Verktaki (contractor)]** – hlutverk og væntingar.
-
-## Innan stofnunar viðskiptavinar (ekki viðskiptavinir)
-1. **[Innan stofnunar #1]** – hlutverk og áhrif á verkefnið.
-2. **[Innan stofnunar  #2]** – hlutverk og áhrif á verkefnið.
+1. **[Beinn notandi (direct user)]** – Auðkenna sig með aðgangskorti og fylgja settum öryggisreglum fyrirtækis (ekki lána kort, tilkynna ef týnist osfrv.). Aðilar hafa væntingar um notendavænni og auðveldari leið til að komast á vinnustað.
+2. **[Verktaki (contractor)]** – Þriðji aðili sem sinnir einhver konar verktakastarfi og kemur því utan fyrirtækis en fær tímabundinn/takmarkaðan aðgang (td. rafvirki eða annar sérstaklega ráðinn starfsmaður sem tilheyrir ekki fyrirtækinu).
 
 ## Viðskiptavinir (ekki notendur)
 1. **[Viðskiptavinategund #1]** – hlutverk og áhrif.
