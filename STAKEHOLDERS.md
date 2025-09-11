@@ -10,8 +10,8 @@ Fyrir hvern notendahóp skal skrá:
 -->
 
 ## Utan stofnunar viðskiptavinar (ekki viðskiptavinir)
-1. **[Beinn notandi (direct user)]** – Auðkenna sig með aðgangskorti og fylgja settum öryggisreglum fyrirtækis (ekki lána kort, tilkynna ef týnist osfrv.). Aðilar hafa væntingar um notendavænni og auðveldari leið til að komast á vinnustað.
-2. **[Verktaki (contractor)]** – Þriðji aðili sem sinnir einhver konar verktakastarfi og kemur því utan fyrirtækis en fær tímabundinn/takmarkaðan aðgang (td. rafvirki eða annar sérstaklega ráðinn starfsmaður sem tilheyrir ekki fyrirtækinu).
+1. **[ISO öryggisráðgjafi/vottunaraðili (ISO consultant/contractor)]** – Framkvæmir öryggisúttekt á vöru og passar að hún uppfylli kröfur ISO staðals um öryggi. Gerir væntingar um að kerfið standist öryggisprófanir.
+2. **[Eldvarnaöryggisráðjafi/úttektaraðili]** – Framkvæmir úttekt á vöru og passar að hún uppfyli kröfur um eldvarnaröryggi á því svæði sem fyrirtækið er staðsett. Gerir væntingar um að kerfið geri ráðstafanir fyrir eldhættu.
 
 ## Innan stofnunar viðskiptavinar (ekki viðskiptavinir)
 1. **[Innan stofnunar #1]** – hlutverk og áhrif á verkefnið.
