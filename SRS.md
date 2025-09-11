@@ -1,14 +1,13 @@
 # Software Requirements Specification (útgáfa fyrir verkefni 2)
-## Númer teymis og höfundar
-[Setjið inn númer teymis og fullt nafn höfunda verkefnis]
+## Hópur 9 - Andrea Eiríksdóttir, Hermann Ingi Hermannsson og Viktor Óli Bjarkason
 
 ## Heiti kerfis
-[Setjið inn nafn kerfis]
+Aðgangsstýringarkerfni
 
 ## 1. Inngangur
 
 ### 1.1 Gildissvið (Scope)
-Stutt lýsing á vörunni og helstu markmiðum.
+EInföld og örugg lausn sem gerir fyrirtækjum kleyft að stýra aðgangi starfsmanna á auðveldan og öruggan máta.
 
 ### 1.2 Tilvísanir
 - IEEE 29148 staðall
@@ -17,7 +16,6 @@ Stutt lýsing á vörunni og helstu markmiðum.
 ## 2. Lýsing á hagsmunaaðilum og notendahópum
 
 Stutt samantekt úr STAKEHOLDERS.md – hverjir eru hagsmunaaðilar, hverjir nota kerfið og hvernig.
-Setjið hlekk á STAKEHOLDERS skrána 
 
 [Hagsmunaaðilar og notendahópar](STAKEHOLDERS.md)
 
@@ -25,7 +23,6 @@ Setjið hlekk á STAKEHOLDERS skrána
 
 Stutt samantekt á CONFLICTS.md - hverjir eru hugsanlegir árekstrar og tillögur
 að úrlausnum 
-Setjið hlekk á CONFLICTS skrána 
 
 [Árekstrar og úrlausnir](CONFLICTS.md)
 
