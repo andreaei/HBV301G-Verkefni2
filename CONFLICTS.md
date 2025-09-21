@@ -2,14 +2,14 @@
 
 ## Business Strategy Conflicts
 1. **Dæmi #1**  
-   - Átaksþáttur: …  
-   - Hagsmunaaðilar: …  
-   - Lausn: …  
+   - Átaksþáttur: Kostnaður við kerfið á móti öryggi  
+   - Hagsmunaaðilar: Fjármálastjóri gegn Öryggisstjóra
+   - Lausn: Finna jafnvægi með stigvaxandi innleiðingu þar sem byrjað er á grunnöryggisþáttum kerfis en bæta við þróuðum dýrum eiginleikum síðan þegar fjárhag er til staðar 
 
 2. **Dæmi #2**  
-   - Átaksþáttur: …  
-   - Hagsmunaaðilar: …  
-   - Lausn: …  
+   - Átaksþáttur: Staðlaðar öryggiskröfur gegn sveigjanleika í notkun 
+   - Hagsmunaaðilar: ISO öryggisráðgjafi gegn Framkvæmdarstjóra 
+   - Lausn: Skilgreina lágmarks staðla sem verða að vera uppfylltir en leyfa að hluti kerfisins sé sérsniðinn að innri ferlum fyrirtækis
 
 ## Requirements Value Conflicts
 3. **Dæmi #3**  
