@@ -13,14 +13,14 @@
 
 ## Requirements Value Conflicts
 3. **Dæmi #3**  
-   - Átaksþáttur: …  
-   - Hagsmunaaðilar: …  
-   - Lausn: …  
+   - Átaksþáttur: Yfirlit yfir notkunarlogs/skýrslur gegn persónuvernd starfsmanna
+   - Hagsmunaaðilar: Stjórnandi á móti starfsmenn
+   - Lausn: Takmarka aðgang að logs/skýrslum við stjórnendur með skýra aðgangsstýringu og skýra varðveislutíma gagna(t.d eyðsla á logs eftir 3 mánuði)
 
 4. **Dæmi #4**  
-   - Átaksþáttur: …  
-   - Hagsmunaaðilar: …  
-   - Lausn: …  
+   - Átaksþáttur: Einfalt og hratt aðgengi með NFC á móti áhættu á misnotkun korta
+   - Hagsmunaaðilar: Starfsmenn á móti öryggisstjóra
+   - Lausn: Innleiða aukaöryggisþætti fyrir viðkvæm rými ofan á NFC en halda einföldu ferli fyrir almenn rými
 
 ## Requirements Substance Conflicts
 5. **Dæmi #5**  
