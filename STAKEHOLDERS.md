@@ -24,25 +24,25 @@ Fyrir hvern notendahóp skal skrá:
 
 ## Notendahópar
 
-### 1. [Heiti hóps]
-- **Staða:** [ ] Forgangs  [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
-- **Stærð:** ~[fjöldi notenda]  
-- **Lýsing:** [Ferlar, hlutverk, markmið]
+### 1. [Starfsmenn sem nota aðgangskortin]
+- **Staða:** [x] Forgangs  [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
+- **Stærð:** ~300 (stærð fyrirtækisins)  
+- **Lýsing:** [Ferlar, hlutverk, markmið] Hver starfsmaður á sitt eigið kort sem einungis honum er heimilt að nota. Aðgangskortið veitir starfsmanni aðgang að þeim rýmum sem hann á að hafa heimild að. 
 
-### 2. [Heiti hóps]
-- **Staða:** [ ] Forgangs   [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
-- **Stærð:** ~[fjöldi notenda]  
-- **Lýsing:** …
+### 2. [Óboðir einstaklingar]
+- **Staða:** [ ] Forgangs   [x] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
+- **Stærð:** ~10 á ári  
+- **Lýsing:** Einstaklingar sem reyna að brjótast inn í kerfið, brjóta á reglum aðgangsheimildanna, stela aðgangskorti og reyna þannig að öðlast óheimilan aðgang.
 
-### 3. [Heiti hóps]
-- **Staða:** [ ] Forgangs   [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
-- **Stærð:** ~[fjöldi notenda]  
-- **Lýsing:** …
+### 3. [Tryggingarfélög]
+- **Staða:** [ ] Forgangs   [ ] Óæskilegir  [ ] Aðrir  [x] Óbeinn  
+- **Stærð:** ~ 3 starfsmenn frá tryggingarfélögum  
+- **Lýsing:** Starfsmenn tryggingarfélaga gætu þurf að fara yfir skýrslur varðandi ferðir og aðgang starfsmanna skyldi t.d. tjón koma upp á.
 
-### 4. [Heiti hóps]
-- **Staða:** [ ] Forgangs   [ ] Óæskilegir  [ ] Aðrir [ ] Óbeinn  
-- **Stærð:** ~[fjöldi notenda]  
-- **Lýsing:** …
+### 4. [Öryggisstarfsmenn]
+- **Staða:** [ ] Forgangs   [ ] Óæskilegir  [x] Aðrir [ ] Óbeinn  
+- **Stærð:** ~ 15 öryggisstarfsmenn
+- **Lýsing:** Starfsmenn sem nota kerfið til að stýra aðgangi, þ.e. geta haft áhrif á leyfðan aðgang á aðgangskortum. Öryggisstarfsmenn hafa einnig aðgang að ferðum starfsmanna til að auka öryggi.
 
 ## Persona fyrir Forgangs  notendahóp
 <!--
@@ -71,7 +71,7 @@ synthesize about 20 new proprietary chemicals to go into the stockroom. Fred wan
 a report of his chemical usage for the previous month to be generated automatically
 and sent to him by email so that he can monitor his chemical exposure.
 --> 
-- **Nafn:**
-- **Notendahópur:**
-- **Starf/hlutverk:**
-- **Lýsing:**
+- **Nafn:** Ólöf
+- **Notendahópur:** 1. Starfsmenn
+- **Starf/hlutverk:** Verkefnastjóri innan markaðsdeildar fyrirtækisins.
+- **Lýsing:** Ólöf er 30 ára og hefur unnið hjá fyrirtækinu í 3 ár sem verkefnastjóri innan markaðsdeildar. Hún vinnur frá 8:00 til 16:00. Hún notar aðgangskortið sitt daglega til að komast í skrifstofurými og fundarherbergi þar sem hlutverk hennar krefst þess oft að hún flytji sig á milli hópa. Ólöf vill að kerfið sé einfalt og áreiðanlegt þar sem hver dagur er pakkaður af skylduverkum og má hún ekki við því að lenda í truflunum sökum aðgangsvandamála. Öryggi skiptir hana máli og hún vill geta reitt sig á aðgangsstýringarkerfið. Hún getur orðið pirruð ef kortið virkar ekki strax eða ef hún þarf að bíða eftir leyfi eða aðgangi, þar sem tími hennar er dýrmætur.
